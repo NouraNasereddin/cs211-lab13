@@ -21,11 +21,17 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
+void apakr2_nnaser2() {
+  printf("\nAl Pakrosnis and Noura Nasereddin\n");
+  printf("We learned that git and github are marvels of modern technology and, while they may not be recognized as so by the typical consumer. They provide a powerful back-end tool for programmers to work collaboratively remotely on complex projects.");
+}
+
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
     reed_ekidan2();
+    apakr2_nnaser2();
     
     return 0;
 }
